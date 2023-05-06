@@ -6,4 +6,8 @@ package com.leetcode.study.algorithm.test1;
  * @Description :
  */
 public class AA {
+
+    public static void main(String[] args) {
+
+    }
 }
